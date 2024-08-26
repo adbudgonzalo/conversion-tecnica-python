@@ -1,0 +1,36 @@
+----------------------------
+
+Problemática
+
+La compañía American MegaDesign está enfrentando problemas de ajuste en las piezas de muebles debido a la discrepancia entre las medidas de los diseños, en centímetros, y las máquinas de fabricación, que utilizan pulgadas.
+
+Algoritmo:
+
+Solicitar al usuario las medidas de la pieza del mueble en centímetros.
+Convertir las medidas de centímetros a pulgadas.
+Mostrar las medidas convertidas en pulgadas al usuario.
+
+----------------------------
+
+----------------------------
+Pseudocódigo:
+
+# Paso 1: Solicitar al usuario las medidas de la pieza del mueble en centímetros.
+Mostrar mensaje: "Por favor, ingrese las medidas de la pieza del mueble (cm):"
+
+# Paso 2: Convertir las medidas de centímetros a pulgadas.
+medida_en_pulgadas = medidas_en_cm / 2.54
+
+# Paso 3: Mostrar las medidas convertidas en pulgadas al usuario.
+Mostrar mensaje: "Las medidas en pulgadas de la pieza ingresada son: ", medida_en_pulgadas)
+
+    Fin
+
+
+
+Objetivos Claros: Lograr que las piezas diseñadas en centímetros encajen correctamente en las máquinas que utilizan pulgadas para la fabricación. Minimizar los errores de ajuste en la fabricación de muebles.
+
+Requisitos y Restricciones: Precisión en la conversión de medidas. Adaptabilidad para diferentes tipos de piezas de muebles. Eficiencia en el proceso de conversión.
+Causas Subyacentes: Diferencias de unidades de medida entre los diseños y las máquinas de fabricación. Posibles errores humanos en la conversión de medidas. Variabilidad en las técnicas de fabricación y ajuste de las piezas.
+Soluciones Alternativas: Implementación de un programa de conversión automática de medidas. Capacitación del personal en técnicas precisas de conversión de medidas. Revisión y ajuste de las máquinas de fabricación para aceptar medidas en centímetros.
+Criterios de Éxito: Reducción significativa de los errores de ajuste en las piezas de muebles. Mejora en la eficiencia y precisión del proceso de fabricación. Adaptación exitosa de las máquinas de fabricación para aceptar medidas en centímetros.
